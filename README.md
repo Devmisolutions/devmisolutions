@@ -41,10 +41,13 @@
 
 ---
 
-## ⚡ Stats
+## ⚡ **Stats**
 
-<!-- You can use GitHub Readme Stats or similar badges -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+### Most Used Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 <!-- Optional: Add more badges -->
 ![Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=social)
