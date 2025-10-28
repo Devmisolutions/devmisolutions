@@ -13,14 +13,14 @@
 
 ### 🌐 Web Development
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, React, TypeScript
-- **Backend**: Laravel 12 (PHP), Express.js (Node.js)
+- **Backend**: Laravel 12 (PHP), Java (Java/Spring Boot)
 - **Database**: MySQL, MongoDB, SQLite
 
 ### 📱 Mobile & Desktop App Development
 - **Flutter (Dart)** – Cross-platform apps (Android, iOS, Web, Windows, macOS)
 - **Python** – Tkinter GUI
-- **C++** – OOP & Windows API / Qt
-- **Visual Basic** – Windows Forms
+- **C++** –  .NET Windows apps
+- **Visual Basic** – .NET Windows apps
 - **Java** – JavaFX / Swing
 - **C#** – .NET Windows apps
 
