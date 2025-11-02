@@ -1,6 +1,6 @@
 #  Software Engineer | Web, Mobile & Desktop App Developer
 
-# 👋 Hi there, I'm [Akinbounje Michael | DevMI Solutions]
+# 👋 Hi there, I'm Akinbounje Michael | DevMI Solutions
 
 👨‍🎓 I'm a graduate of Computer Science  
 💻 I love programming, learning, and building mobile, web, and desktop apps—both frontend and backend. I'm enthusiastic about solving problems; it gives me real joy 😊  
